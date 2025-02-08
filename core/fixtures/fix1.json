@@ -83,7 +83,7 @@
     {
         "model": "main.plant",
         "fields":{
-            "name": "Яблоко"
+            "name": "Apple"
         }
     }
 ]
